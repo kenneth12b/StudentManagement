@@ -1,0 +1,16 @@
+{
+    "name": "beso/student-management",
+    "description": "Basic StudentManagement",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Beso\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BESO KENNETH"
+        }
+    ],
+    "require": {}
+}
